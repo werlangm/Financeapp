@@ -1,5 +1,5 @@
 const STORAGE_KEY = 'financas_app_v1';
-const SEED_URL = '/finance.seed.json';
+const SEED_URL = './finance.seed.json';
 
 const DEFAULT_SETTINGS = {
   metaEconomiaPct: 20,

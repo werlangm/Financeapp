@@ -29,6 +29,12 @@ git remote add origin <URL_DO_REPOSITORIO>
 git push -u origin main
 ```
 
+## Publicar a versao web
+- O app web atual pode ser publicado diretamente no GitHub Pages.
+- O workflow em `.github/workflows/deploy-pages.yml` publica automaticamente a pasta `web/` a cada push na branch `main`.
+- No GitHub, abra `Settings -> Pages` e deixe o site configurado para usar `GitHub Actions`.
+- Depois do primeiro push, a URL tende a ficar em `https://<usuario>.github.io/<repositorio>/`.
+
 ## Conectar ao Codex Web
 1. No ChatGPT, abra o Codex.
 2. Conecte sua conta do GitHub, se ainda nao estiver conectada.
@@ -40,3 +46,4 @@ git push -u origin main
 - O app atual nao depende de framework de build.
 - O deploy pode ser feito em qualquer host que execute Node.js ou sirva os arquivos estaticos com fallback simples.
 - O Codex Web nao hospeda a pagina publica por si; ele trabalha conectado ao repositorio e ao ambiente do projeto.
+- Para Android e iOS em loja, este repositorio ainda nao contem um app mobile de financas pronto para publicacao.

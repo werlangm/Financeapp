@@ -191,6 +191,14 @@ function saveLocal(data) {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
 }
 
+function removeTransaction(id) {
+  const before = state.data.transactions.length;
+  state.data.transactions = state.data.transactions.filter((tx) => tx.id !== id);
+  if (state.data.transactions.length === before) return;
+  saveLocal(state.data);
+  renderAll();
+}
+
 function mergeSeed(localData, seedData) {
   if (!seedData) return localData;
   if (!localData) return seedData;
@@ -362,6 +370,11 @@ function renderDetailTable() {
           <td>${t.descricao || '-'}</td>
           <td>${toBRL(t.valor)}</td>
           <td>${t.recorrente ? 'Sim' : 'Nao'}</td>
+          <td>
+            <button class="btn-row danger" type="button" data-delete-id="${t.id}" aria-label="Remover lancamento">
+              Remover
+            </button>
+          </td>
         </tr>
       `
     )
@@ -376,10 +389,11 @@ function renderDetailTable() {
         <th>Descricao</th>
         <th>Valor</th>
         <th>Recorrente</th>
+        <th>Acao</th>
       </tr>
     </thead>
     <tbody>
-      ${rows || '<tr><td colspan="6">Sem lancamentos no filtro atual</td></tr>'}
+      ${rows || '<tr><td colspan="7">Sem lancamentos no filtro atual</td></tr>'}
     </tbody>
   `;
 }
@@ -522,6 +536,14 @@ function bindEvents() {
   elements.filterSearch.addEventListener('input', (event) => {
     state.search = event.target.value;
     renderDetailTable();
+  });
+  elements.detailTable.addEventListener('click', (event) => {
+    const btn = event.target.closest('[data-delete-id]');
+    if (!btn) return;
+    const id = btn.dataset.deleteId;
+    const ok = window.confirm('Deseja remover este lancamento?');
+    if (!ok) return;
+    removeTransaction(id);
   });
 
   elements.metaEconomia.addEventListener('change', (event) => {

@@ -96,10 +96,12 @@
             <button class="chip" data-summary="receita">Receitas</button>
             <button class="chip" data-summary="investimento">Investimentos</button>
           </div>
-          <table class="table" id="summary-table"></table>
+          <div class="table-wrap">
+            <table class="table" id="summary-table"></table>
+          </div>
         </div>
 
-        <div class="card">
+        <div class="card card-wide">
           <div class="card-title">Relatorio detalhado</div>
           <div class="filters">
             <select id="filter-type">
@@ -110,7 +112,9 @@
             </select>
             <input type="text" id="filter-search" placeholder="Buscar por categoria ou descricao" />
           </div>
-          <table class="table" id="detail-table"></table>
+          <div class="table-wrap">
+            <table class="table" id="detail-table"></table>
+          </div>
         </div>
 
         <div class="card">

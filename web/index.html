@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Orcamento Mensal | Financas</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="bg"></div>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Painel financeiro pessoal</p>
+        <h1>Orcamento Mensal</h1>
+        <p class="subtitle">Receitas, despesas e investimentos com relatorios e insights.</p>
+      </div>
+      <div class="topbar-actions">
+        <div class="pill">
+          Mes
+          <select id="month-select"></select>
+        </div>
+        <button class="btn ghost" id="add-transaction-btn">Adicionar lancamento</button>
+        <button class="btn ghost" id="export-btn">Exportar JSON</button>
+        <label class="btn ghost file-btn">
+          Importar JSON
+          <input type="file" id="import-input" accept="application/json" />
+        </label>
+      </div>
+    </header>
+
+    <main>
+      <section class="summary" id="summary"></section>
+
+      <section class="grid">
+        <div class="card">
+          <div class="card-title">Novo lancamento</div>
+          <form id="transaction-form" class="form">
+            <div class="field">
+              <label for="tx-date">Data</label>
+              <input type="date" id="tx-date" required />
+            </div>
+            <div class="field">
+              <label for="tx-type">Tipo</label>
+              <select id="tx-type" required>
+                <option value="receita">Receita</option>
+                <option value="despesa">Despesa</option>
+                <option value="investimento">Investimento</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="tx-category">Categoria</label>
+              <input type="text" id="tx-category" list="category-list" placeholder="Ex.: Aluguel" required />
+              <datalist id="category-list"></datalist>
+            </div>
+            <div class="field">
+              <label for="tx-desc">Descricao</label>
+              <input type="text" id="tx-desc" placeholder="Ex.: aluguel de abril" />
+            </div>
+            <div class="field">
+              <label for="tx-amount">Valor</label>
+              <input type="number" id="tx-amount" step="0.01" min="0" required />
+            </div>
+            <div class="field inline">
+              <input type="checkbox" id="tx-recurring" />
+              <label for="tx-recurring">Recorrente</label>
+            </div>
+            <div class="field">
+              <label for="meta-economia">Meta de economia (%)</label>
+              <input type="number" id="meta-economia" min="0" max="90" step="1" />
+            </div>
+            <button class="btn primary" type="submit">Salvar lancamento</button>
+          </form>
+          <p class="hint">Os calculos seguem a planilha: renda total, despesa total, economia total, saldo e percentual gasto.</p>
+        </div>
+
+        <div class="card">
+          <div class="card-title">Resumo visual</div>
+          <div class="bar" id="budget-bar">
+            <div class="segment expense" id="seg-expense"></div>
+            <div class="segment invest" id="seg-invest"></div>
+            <div class="segment balance" id="seg-balance"></div>
+          </div>
+          <div class="legend">
+            <span class="dot expense"></span> Despesas
+            <span class="dot invest"></span> Investimentos
+            <span class="dot balance"></span> Saldo
+          </div>
+          <div class="chart-title">Tendencia dos ultimos 6 meses</div>
+          <div class="spark" id="spark-chart"></div>
+        </div>
+
+        <div class="card">
+          <div class="card-title">Relatorio resumido</div>
+          <div class="toolbar">
+            <button class="chip active" data-summary="despesa">Despesas</button>
+            <button class="chip" data-summary="receita">Receitas</button>
+            <button class="chip" data-summary="investimento">Investimentos</button>
+          </div>
+          <table class="table" id="summary-table"></table>
+        </div>
+
+        <div class="card">
+          <div class="card-title">Relatorio detalhado</div>
+          <div class="filters">
+            <select id="filter-type">
+              <option value="">Todos os tipos</option>
+              <option value="receita">Receita</option>
+              <option value="despesa">Despesa</option>
+              <option value="investimento">Investimento</option>
+            </select>
+            <input type="text" id="filter-search" placeholder="Buscar por categoria ou descricao" />
+          </div>
+          <table class="table" id="detail-table"></table>
+        </div>
+
+        <div class="card">
+          <div class="card-title">Insights e oportunidades</div>
+          <ul class="insights" id="insights"></ul>
+          <div class="card-subtitle">Opcoes de investimento (educacional)</div>
+          <div class="toolbar">
+            <button class="chip active" data-risk="conservador">Conservador</button>
+            <button class="chip" data-risk="moderado">Moderado</button>
+            <button class="chip" data-risk="arrojado">Arrojado</button>
+          </div>
+          <div class="invest-list" id="invest-list"></div>
+          <p class="hint">Nao e recomendacao individual. Avalie perfil, liquidez e risco.</p>
+        </div>
+      </section>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+</html>

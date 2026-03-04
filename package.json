@@ -1,0 +1,13 @@
+{
+  "name": "app-financas-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplicativo web de financas pessoais com frontend estatico e servidor Node simples.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

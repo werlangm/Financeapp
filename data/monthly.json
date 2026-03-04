@@ -1,0 +1,72 @@
+{
+  "period": "monthly",
+  "range": "2026-02-01 to 2026-02-28",
+  "providers": ["Kaspersky", "CrowdStrike", "Microsoft Defender for Endpoint"],
+  "kpis": {
+    "devices_total": 12450,
+    "devices_protected": 11920,
+    "devices_unprotected": 530,
+    "threats_detected": 128400,
+    "threats_blocked": 117200,
+    "virus_blocks": 79200,
+    "attack_attempts_blocked": 26400,
+    "incidents_total": 1388,
+    "mtta_hours": 3.7,
+    "mttr_hours": 15.6,
+    "agent_health_ok_pct": 93.2,
+    "policy_compliance_pct": 88.7,
+    "risk_score_avg": 34
+  },
+  "highlights": [
+    "Incidentes críticos reduziram 11% em relação a janeiro.",
+    "Microsoft Defender concentrou 38% das detecções do mês.",
+    "530 dispositivos sem proteção ativa permanecem como principal gap."
+  ],
+  "trend": {
+    "label": "Mês",
+    "data": [
+      {"label": "2025-09", "incidents": 1510, "threats_blocked": 122400},
+      {"label": "2025-10", "incidents": 1468, "threats_blocked": 119100},
+      {"label": "2025-11", "incidents": 1402, "threats_blocked": 116900},
+      {"label": "2025-12", "incidents": 1580, "threats_blocked": 124300},
+      {"label": "2026-01", "incidents": 1524, "threats_blocked": 121800},
+      {"label": "2026-02", "incidents": 1388, "threats_blocked": 117200}
+    ]
+  },
+  "severity": [
+    {"level": "Critical", "count": 92},
+    {"level": "High", "count": 384},
+    {"level": "Medium", "count": 618},
+    {"level": "Low", "count": 294}
+  ],
+  "coverage_by_provider": [
+    {"provider": "Kaspersky", "protected": 3140, "total": 3300},
+    {"provider": "CrowdStrike", "protected": 3890, "total": 4000},
+    {"provider": "Microsoft Defender for Endpoint", "protected": 4890, "total": 5150}
+  ],
+  "provider_summary": [
+    {"provider": "Kaspersky", "devices_protected": 3140, "devices_total": 3300, "threats_detected": 36000, "threats_blocked": 32600, "incidents": 420},
+    {"provider": "CrowdStrike", "devices_protected": 3890, "devices_total": 4000, "threats_detected": 43600, "threats_blocked": 40100, "incidents": 458},
+    {"provider": "Microsoft Defender for Endpoint", "devices_protected": 4890, "devices_total": 5150, "threats_detected": 48800, "threats_blocked": 44500, "incidents": 510}
+  ],
+  "top_threat_families": [
+    {"name": "Trojan.Agent", "count": 8020},
+    {"name": "Ransom.Win32", "count": 5200},
+    {"name": "Worm.AutoRun", "count": 4020},
+    {"name": "PUA.Bundle", "count": 3810},
+    {"name": "Exploit.CVE", "count": 3340}
+  ],
+  "top_noisy_endpoints": [
+    {"hostname": "FIN-WS-042", "events": 1182, "provider": "CrowdStrike"},
+    {"hostname": "OPS-SRV-011", "events": 1044, "provider": "Microsoft Defender for Endpoint"},
+    {"hostname": "ENG-WS-019", "events": 990, "provider": "Kaspersky"},
+    {"hostname": "HR-WS-007", "events": 910, "provider": "CrowdStrike"},
+    {"hostname": "SEC-WS-033", "events": 882, "provider": "Kaspersky"}
+  ],
+  "recent_incidents": [
+    {"id": "INC-23801", "severity": "Critical", "status": "Resolved", "provider": "Microsoft Defender for Endpoint", "endpoint": "OPS-SRV-011", "opened": "2026-02-04", "closed": "2026-02-05"},
+    {"id": "INC-23844", "severity": "High", "status": "Resolved", "provider": "CrowdStrike", "endpoint": "FIN-WS-042", "opened": "2026-02-10", "closed": "2026-02-12"},
+    {"id": "INC-23872", "severity": "Medium", "status": "Contained", "provider": "Kaspersky", "endpoint": "SEC-WS-033", "opened": "2026-02-16", "closed": "2026-02-17"},
+    {"id": "INC-23903", "severity": "Low", "status": "Resolved", "provider": "Kaspersky", "endpoint": "ENG-WS-019", "opened": "2026-02-20", "closed": "2026-02-21"}
+  ]
+}

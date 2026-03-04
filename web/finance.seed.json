@@ -1,0 +1,2728 @@
+{
+  "version": 1,
+  "transactions": [
+    {
+      "id": "2025-01-renda-14",
+      "month": "2025-01",
+      "date": "2025-01-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 1",
+      "descricao": "Fonte de renda 1",
+      "valor": 10790.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-01-despesa-20",
+      "month": "2025-01",
+      "date": "2025-01-01",
+      "type": "despesa",
+      "categoria": "Aluguel/condomínio",
+      "descricao": "Aluguel/condomínio",
+      "valor": 1347.18,
+      "recorrente": true
+    },
+    {
+      "id": "2025-01-despesa-21",
+      "month": "2025-01",
+      "date": "2025-01-01",
+      "type": "despesa",
+      "categoria": "Eletricidade",
+      "descricao": "Eletricidade",
+      "valor": 293.03,
+      "recorrente": true
+    },
+    {
+      "id": "2025-01-despesa-22",
+      "month": "2025-01",
+      "date": "2025-01-01",
+      "type": "despesa",
+      "categoria": "internet",
+      "descricao": "internet",
+      "valor": 160.46,
+      "recorrente": true
+    },
+    {
+      "id": "2025-01-despesa-25",
+      "month": "2025-01",
+      "date": "2025-01-01",
+      "type": "despesa",
+      "categoria": "Condomínio",
+      "descricao": "Condomínio",
+      "valor": 689.3,
+      "recorrente": true
+    },
+    {
+      "id": "2025-01-despesa-26",
+      "month": "2025-01",
+      "date": "2025-01-01",
+      "type": "despesa",
+      "categoria": "Cartão Nubank",
+      "descricao": "Cartão Nubank",
+      "valor": 3935.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-01-despesa-27",
+      "month": "2025-01",
+      "date": "2025-01-01",
+      "type": "despesa",
+      "categoria": "pensão",
+      "descricao": "pensão",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-01-despesa-28",
+      "month": "2025-01",
+      "date": "2025-01-01",
+      "type": "despesa",
+      "categoria": "Havan",
+      "descricao": "Havan",
+      "valor": 218.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-01-despesa-29",
+      "month": "2025-01",
+      "date": "2025-01-01",
+      "type": "despesa",
+      "categoria": "Picpay",
+      "descricao": "Picpay",
+      "valor": 181.57,
+      "recorrente": true
+    },
+    {
+      "id": "2025-01-despesa-31",
+      "month": "2025-01",
+      "date": "2025-01-01",
+      "type": "despesa",
+      "categoria": "Casas Bahia",
+      "descricao": "Casas Bahia",
+      "valor": 90.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-01-despesa-32",
+      "month": "2025-01",
+      "date": "2025-01-01",
+      "type": "despesa",
+      "categoria": "Mercado pago",
+      "descricao": "Mercado pago",
+      "valor": 170.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-01-despesa-33",
+      "month": "2025-01",
+      "date": "2025-01-01",
+      "type": "despesa",
+      "categoria": "Pernambucanas",
+      "descricao": "Pernambucanas",
+      "valor": 230.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-01-despesa-34",
+      "month": "2025-01",
+      "date": "2025-01-01",
+      "type": "despesa",
+      "categoria": "Cartão Suellen",
+      "descricao": "Cartão Suellen",
+      "valor": 2609.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-01-despesa-35",
+      "month": "2025-01",
+      "date": "2025-01-01",
+      "type": "despesa",
+      "categoria": "Cartão Torra",
+      "descricao": "Cartão Torra",
+      "valor": 112.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-01-despesa-36",
+      "month": "2025-01",
+      "date": "2025-01-01",
+      "type": "despesa",
+      "categoria": "Sams",
+      "descricao": "Sams",
+      "valor": 207.82,
+      "recorrente": true
+    },
+    {
+      "id": "2025-02-renda-14",
+      "month": "2025-02",
+      "date": "2025-02-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 1",
+      "descricao": "Fonte de renda 1",
+      "valor": 10790.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-02-despesa-20",
+      "month": "2025-02",
+      "date": "2025-02-01",
+      "type": "despesa",
+      "categoria": "Aluguel/condomínio",
+      "descricao": "Aluguel/condomínio",
+      "valor": 1347.18,
+      "recorrente": true
+    },
+    {
+      "id": "2025-02-despesa-21",
+      "month": "2025-02",
+      "date": "2025-02-01",
+      "type": "despesa",
+      "categoria": "Eletricidade",
+      "descricao": "Eletricidade",
+      "valor": 293.03,
+      "recorrente": true
+    },
+    {
+      "id": "2025-02-despesa-22",
+      "month": "2025-02",
+      "date": "2025-02-01",
+      "type": "despesa",
+      "categoria": "internet",
+      "descricao": "internet",
+      "valor": 160.46,
+      "recorrente": true
+    },
+    {
+      "id": "2025-02-despesa-25",
+      "month": "2025-02",
+      "date": "2025-02-01",
+      "type": "despesa",
+      "categoria": "Condomínio",
+      "descricao": "Condomínio",
+      "valor": 689.3,
+      "recorrente": true
+    },
+    {
+      "id": "2025-02-despesa-26",
+      "month": "2025-02",
+      "date": "2025-02-01",
+      "type": "despesa",
+      "categoria": "Cartão Nubank",
+      "descricao": "Cartão Nubank",
+      "valor": 4900.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-02-despesa-27",
+      "month": "2025-02",
+      "date": "2025-02-01",
+      "type": "despesa",
+      "categoria": "pensão",
+      "descricao": "pensão",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-02-despesa-28",
+      "month": "2025-02",
+      "date": "2025-02-01",
+      "type": "despesa",
+      "categoria": "Havan",
+      "descricao": "Havan",
+      "valor": 218.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-02-despesa-29",
+      "month": "2025-02",
+      "date": "2025-02-01",
+      "type": "despesa",
+      "categoria": "Picpay",
+      "descricao": "Picpay",
+      "valor": 70.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-02-despesa-31",
+      "month": "2025-02",
+      "date": "2025-02-01",
+      "type": "despesa",
+      "categoria": "Casas Bahia",
+      "descricao": "Casas Bahia",
+      "valor": 90.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-02-despesa-32",
+      "month": "2025-02",
+      "date": "2025-02-01",
+      "type": "despesa",
+      "categoria": "Mercado pago",
+      "descricao": "Mercado pago",
+      "valor": 101.8,
+      "recorrente": true
+    },
+    {
+      "id": "2025-02-despesa-33",
+      "month": "2025-02",
+      "date": "2025-02-01",
+      "type": "despesa",
+      "categoria": "Pernambucanas",
+      "descricao": "Pernambucanas",
+      "valor": 190.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-02-despesa-34",
+      "month": "2025-02",
+      "date": "2025-02-01",
+      "type": "despesa",
+      "categoria": "Cartão Suellen",
+      "descricao": "Cartão Suellen",
+      "valor": 2800.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-02-despesa-35",
+      "month": "2025-02",
+      "date": "2025-02-01",
+      "type": "despesa",
+      "categoria": "Cartão Torra",
+      "descricao": "Cartão Torra",
+      "valor": 141.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-02-despesa-36",
+      "month": "2025-02",
+      "date": "2025-02-01",
+      "type": "despesa",
+      "categoria": "Sams",
+      "descricao": "Sams",
+      "valor": 115.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-renda-14",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 1",
+      "descricao": "Fonte de renda 1",
+      "valor": 10790.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-20",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "Aluguel/condomínio",
+      "descricao": "Aluguel/condomínio",
+      "valor": 1347.18,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-21",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "Eletricidade",
+      "descricao": "Eletricidade",
+      "valor": 241.08,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-22",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "internet",
+      "descricao": "internet",
+      "valor": 160.46,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-23",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "Salário Vera",
+      "descricao": "Salário Vera",
+      "valor": 30.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-25",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "Condomínio",
+      "descricao": "Condomínio",
+      "valor": 689.3,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-26",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "Cartão Nubank",
+      "descricao": "Cartão Nubank",
+      "valor": 4405.63,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-27",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "pensão",
+      "descricao": "pensão",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-28",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "Havan",
+      "descricao": "Havan",
+      "valor": 212.09,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-29",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "Picpay",
+      "descricao": "Picpay",
+      "valor": 135.68,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-30",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "CeA",
+      "descricao": "CeA",
+      "valor": 64.88,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-31",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "Casas Bahia",
+      "descricao": "Casas Bahia",
+      "valor": 90.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-32",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "Mercado pago",
+      "descricao": "Mercado pago",
+      "valor": 109.8,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-33",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "Pernambucanas",
+      "descricao": "Pernambucanas",
+      "valor": 71.09,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-34",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "Cartão Suellen",
+      "descricao": "Cartão Suellen",
+      "valor": 1563.59,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-35",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "Cartão Torra",
+      "descricao": "Cartão Torra",
+      "valor": 156.29,
+      "recorrente": true
+    },
+    {
+      "id": "2025-03-despesa-36",
+      "month": "2025-03",
+      "date": "2025-03-01",
+      "type": "despesa",
+      "categoria": "Sams",
+      "descricao": "Sams",
+      "valor": 328.89,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-renda-14",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 1",
+      "descricao": "Fonte de renda 1",
+      "valor": 10790.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-20",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "Aluguel/condomínio",
+      "descricao": "Aluguel/condomínio",
+      "valor": 1356.26,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-21",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "Eletricidade",
+      "descricao": "Eletricidade",
+      "valor": 240.3,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-22",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "internet",
+      "descricao": "internet",
+      "valor": 160.46,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-23",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "Salário Vera",
+      "descricao": "Salário Vera",
+      "valor": 30.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-24",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "Renner",
+      "descricao": "Renner",
+      "valor": 49.96,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-25",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "Condomínio",
+      "descricao": "Condomínio",
+      "valor": 689.3,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-26",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "Cartão Nubank",
+      "descricao": "Cartão Nubank",
+      "valor": 4872.97,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-27",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "pensão",
+      "descricao": "pensão",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-28",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "Havan",
+      "descricao": "Havan",
+      "valor": 212.09,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-29",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "Picpay",
+      "descricao": "Picpay",
+      "valor": 196.67,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-30",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "CeA",
+      "descricao": "CeA",
+      "valor": 201.99,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-31",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "Casas Bahia",
+      "descricao": "Casas Bahia",
+      "valor": 90.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-32",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "Mercado pago",
+      "descricao": "Mercado pago",
+      "valor": 124.14,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-33",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "Pernambucanas",
+      "descricao": "Pernambucanas",
+      "valor": 71.09,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-34",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "Cartão Suellen",
+      "descricao": "Cartão Suellen",
+      "valor": 1368.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-35",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "Cartão Torra",
+      "descricao": "Cartão Torra",
+      "valor": 156.29,
+      "recorrente": true
+    },
+    {
+      "id": "2025-04-despesa-36",
+      "month": "2025-04",
+      "date": "2025-04-01",
+      "type": "despesa",
+      "categoria": "Sams",
+      "descricao": "Sams",
+      "valor": 350.96,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-renda-14",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 1",
+      "descricao": "Fonte de renda 1",
+      "valor": 17220.03,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-20",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "Aluguel/condomínio",
+      "descricao": "Aluguel/condomínio",
+      "valor": 1356.26,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-21",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "Eletricidade",
+      "descricao": "Eletricidade",
+      "valor": 262.77,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-22",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "internet",
+      "descricao": "internet",
+      "valor": 160.46,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-23",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "Salário Vera",
+      "descricao": "Salário Vera",
+      "valor": 30.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-24",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "Renner",
+      "descricao": "Renner",
+      "valor": 93.26,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-25",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "Condomínio",
+      "descricao": "Condomínio",
+      "valor": 689.3,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-26",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "Cartão Nubank",
+      "descricao": "Cartão Nubank",
+      "valor": 5000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-27",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "pensão",
+      "descricao": "pensão",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-28",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "Havan",
+      "descricao": "Havan",
+      "valor": 252.05,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-29",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "Picpay",
+      "descricao": "Picpay",
+      "valor": 59.89,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-30",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "CeA",
+      "descricao": "CeA",
+      "valor": 146.98,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-31",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "Casas Bahia",
+      "descricao": "Casas Bahia",
+      "valor": 90.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-32",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "Mercado pago",
+      "descricao": "Mercado pago",
+      "valor": 77.23,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-33",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "Pernambucanas",
+      "descricao": "Pernambucanas",
+      "valor": 71.09,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-34",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "Cartão Suellen",
+      "descricao": "Cartão Suellen",
+      "valor": 1774.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-35",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "Cartão Torra",
+      "descricao": "Cartão Torra",
+      "valor": 112.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-36",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "Sams",
+      "descricao": "Sams",
+      "valor": 156.66,
+      "recorrente": true
+    },
+    {
+      "id": "2025-05-despesa-37",
+      "month": "2025-05",
+      "date": "2025-05-01",
+      "type": "despesa",
+      "categoria": "Riachuelo",
+      "descricao": "Riachuelo",
+      "valor": 117.38,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-renda-14",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 1",
+      "descricao": "Fonte de renda 1",
+      "valor": 10790.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-20",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "Aluguel/condomínio",
+      "descricao": "Aluguel/condomínio",
+      "valor": 1356.26,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-21",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "Eletricidade",
+      "descricao": "Eletricidade",
+      "valor": 242.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-22",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "internet",
+      "descricao": "internet",
+      "valor": 160.46,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-23",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "Salário Vera",
+      "descricao": "Salário Vera",
+      "valor": 30.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-24",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "Renner",
+      "descricao": "Renner",
+      "valor": 93.26,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-25",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "Condomínio",
+      "descricao": "Condomínio",
+      "valor": 689.3,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-26",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "Cartão Nubank",
+      "descricao": "Cartão Nubank",
+      "valor": 4662.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-27",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "pensão",
+      "descricao": "pensão",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-28",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "Havan",
+      "descricao": "Havan",
+      "valor": 190.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-29",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "Picpay",
+      "descricao": "Picpay",
+      "valor": 186.13,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-30",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "CeA",
+      "descricao": "CeA",
+      "valor": 146.98,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-31",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "Casas Bahia",
+      "descricao": "Casas Bahia",
+      "valor": 90.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-32",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "Mercado pago",
+      "descricao": "Mercado pago",
+      "valor": 80.96,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-33",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "Pernambucanas",
+      "descricao": "Pernambucanas",
+      "valor": 71.09,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-34",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "Cartão Suellen",
+      "descricao": "Cartão Suellen",
+      "valor": 1642.14,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-36",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "Sams",
+      "descricao": "Sams",
+      "valor": 263.3,
+      "recorrente": true
+    },
+    {
+      "id": "2025-06-despesa-37",
+      "month": "2025-06",
+      "date": "2025-06-01",
+      "type": "despesa",
+      "categoria": "Riachuelo",
+      "descricao": "Riachuelo",
+      "valor": 117.38,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-renda-14",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 1",
+      "descricao": "Fonte de renda 1",
+      "valor": 10790.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-20",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "Aluguel/condomínio",
+      "descricao": "Aluguel/condomínio",
+      "valor": 1458.9,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-21",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "Eletricidade",
+      "descricao": "Eletricidade",
+      "valor": 226.75,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-22",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "internet",
+      "descricao": "internet",
+      "valor": 160.46,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-23",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "Salário Vera",
+      "descricao": "Salário Vera",
+      "valor": 30.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-24",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "Renner",
+      "descricao": "Renner",
+      "valor": 93.26,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-25",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "Condomínio",
+      "descricao": "Condomínio",
+      "valor": 689.3,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-26",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "Cartão Nubank",
+      "descricao": "Cartão Nubank",
+      "valor": 4984.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-27",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "pensão",
+      "descricao": "pensão",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-28",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "Havan",
+      "descricao": "Havan",
+      "valor": 358.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-29",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "Picpay",
+      "descricao": "Picpay",
+      "valor": 473.16,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-30",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "CeA",
+      "descricao": "CeA",
+      "valor": 146.98,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-31",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "Casas Bahia",
+      "descricao": "Casas Bahia",
+      "valor": 90.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-32",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "Mercado pago",
+      "descricao": "Mercado pago",
+      "valor": 413.33,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-34",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "Cartão Suellen",
+      "descricao": "Cartão Suellen",
+      "valor": 2498.12,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-35",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "Cartão Torra",
+      "descricao": "Cartão Torra",
+      "valor": 127.4,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-36",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "Sams",
+      "descricao": "Sams",
+      "valor": 448.51,
+      "recorrente": true
+    },
+    {
+      "id": "2025-07-despesa-37",
+      "month": "2025-07",
+      "date": "2025-07-01",
+      "type": "despesa",
+      "categoria": "Riachuelo",
+      "descricao": "Riachuelo",
+      "valor": 118.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-renda-14",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 1",
+      "descricao": "Fonte de renda 1",
+      "valor": 17290.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-20",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "Aluguel/condomínio",
+      "descricao": "Aluguel/condomínio",
+      "valor": 1458.9,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-21",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "Eletricidade",
+      "descricao": "Eletricidade",
+      "valor": 240.98,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-22",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "internet",
+      "descricao": "internet",
+      "valor": 160.46,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-23",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "Salário Vera",
+      "descricao": "Salário Vera",
+      "valor": 30.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-24",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "Renner",
+      "descricao": "Renner",
+      "valor": 49.96,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-25",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "Condomínio",
+      "descricao": "Condomínio",
+      "valor": 689.3,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-26",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "Cartão Nubank",
+      "descricao": "Cartão Nubank",
+      "valor": 7127.51,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-27",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "pensão",
+      "descricao": "pensão",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-28",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "Havan",
+      "descricao": "Havan",
+      "valor": 279.71,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-29",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "Picpay",
+      "descricao": "Picpay",
+      "valor": 413.19,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-30",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "CeA",
+      "descricao": "CeA",
+      "valor": 146.98,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-31",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "Casas Bahia",
+      "descricao": "Casas Bahia",
+      "valor": 90.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-32",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "Mercado pago",
+      "descricao": "Mercado pago",
+      "valor": 413.33,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-33",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "Parcela Carro",
+      "descricao": "Parcela Carro",
+      "valor": 1806.76,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-34",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "Cartão Suellen",
+      "descricao": "Cartão Suellen",
+      "valor": 953.53,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-35",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "Cartão Torra",
+      "descricao": "Cartão Torra",
+      "valor": 127.4,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-36",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "Sams",
+      "descricao": "Sams",
+      "valor": 400.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-08-despesa-37",
+      "month": "2025-08",
+      "date": "2025-08-01",
+      "type": "despesa",
+      "categoria": "Seguro Carro",
+      "descricao": "Seguro Carro",
+      "valor": 198.95,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-renda-14",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 1",
+      "descricao": "Fonte de renda 1",
+      "valor": 10920.95,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-20",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "Aluguel/condomínio",
+      "descricao": "Aluguel/condomínio",
+      "valor": 1458.9,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-21",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "Eletricidade",
+      "descricao": "Eletricidade",
+      "valor": 257.34,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-22",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "internet",
+      "descricao": "internet",
+      "valor": 164.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-23",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "Salário Vera",
+      "descricao": "Salário Vera",
+      "valor": 30.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-25",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "Condomínio",
+      "descricao": "Condomínio",
+      "valor": 689.3,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-26",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "Cartão Nubank",
+      "descricao": "Cartão Nubank",
+      "valor": 4756.89,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-27",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "pensão",
+      "descricao": "pensão",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-28",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "Havan",
+      "descricao": "Havan",
+      "valor": 292.74,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-29",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "Picpay",
+      "descricao": "Picpay",
+      "valor": 625.89,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-31",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "Casas Bahia",
+      "descricao": "Casas Bahia",
+      "valor": 132.45,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-32",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "Mercado pago",
+      "descricao": "Mercado pago",
+      "valor": 418.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-33",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "Parcela Carro",
+      "descricao": "Parcela Carro",
+      "valor": 1806.5,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-34",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "Cartão Suellen",
+      "descricao": "Cartão Suellen",
+      "valor": 1247.4,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-35",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "Cartão Torra",
+      "descricao": "Cartão Torra",
+      "valor": 207.75,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-36",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "Sams",
+      "descricao": "Sams",
+      "valor": 456.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-09-despesa-37",
+      "month": "2025-09",
+      "date": "2025-09-01",
+      "type": "despesa",
+      "categoria": "Seguro Carro",
+      "descricao": "Seguro Carro",
+      "valor": 198.95,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-renda-14",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 1",
+      "descricao": "Fonte de renda 1",
+      "valor": 10660.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-20",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "Aluguel",
+      "descricao": "Aluguel",
+      "valor": 1458.9,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-21",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "Eletricidade",
+      "descricao": "Eletricidade",
+      "valor": 308.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-22",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "internet",
+      "descricao": "internet",
+      "valor": 164.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-23",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "Salário Vera",
+      "descricao": "Salário Vera",
+      "valor": 30.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-24",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "Parcela MBA",
+      "descricao": "Parcela MBA",
+      "valor": 149.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-25",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "Condomínio",
+      "descricao": "Condomínio",
+      "valor": 689.3,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-26",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "Cartão Nubank",
+      "descricao": "Cartão Nubank",
+      "valor": 7980.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-27",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "pensão",
+      "descricao": "pensão",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-28",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "Havan",
+      "descricao": "Havan",
+      "valor": 206.62,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-29",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "Picpay",
+      "descricao": "Picpay",
+      "valor": 473.09,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-31",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "Casas Bahia",
+      "descricao": "Casas Bahia",
+      "valor": 132.45,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-32",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "Mercado pago",
+      "descricao": "Mercado pago",
+      "valor": 374.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-33",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "Parcela Carro",
+      "descricao": "Parcela Carro",
+      "valor": 1804.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-34",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "Cartão Suellen",
+      "descricao": "Cartão Suellen",
+      "valor": 476.45,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-35",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "Cartão Torra",
+      "descricao": "Cartão Torra",
+      "valor": 207.75,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-36",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "Sams",
+      "descricao": "Sams",
+      "valor": 409.5,
+      "recorrente": true
+    },
+    {
+      "id": "2025-10-despesa-37",
+      "month": "2025-10",
+      "date": "2025-10-01",
+      "type": "despesa",
+      "categoria": "Seguro Carro",
+      "descricao": "Seguro Carro",
+      "valor": 198.95,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-renda-14",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 1",
+      "descricao": "Fonte de renda 1",
+      "valor": 10810.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-renda-15",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 2",
+      "descricao": "Fonte de renda 2",
+      "valor": 6350.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-20",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "Aluguel",
+      "descricao": "Aluguel",
+      "valor": 1458.9,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-21",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "Eletricidade",
+      "descricao": "Eletricidade",
+      "valor": 278.92,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-22",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "internet",
+      "descricao": "internet",
+      "valor": 168.5,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-23",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "Salário Vera",
+      "descricao": "Salário Vera",
+      "valor": 30.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-24",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "Parcela MBA",
+      "descricao": "Parcela MBA",
+      "valor": 149.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-25",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "Condomínio",
+      "descricao": "Condomínio",
+      "valor": 689.3,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-26",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "Cartão Nubank",
+      "descricao": "Cartão Nubank",
+      "valor": 10340.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-27",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "pensão",
+      "descricao": "pensão",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-28",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "Havan",
+      "descricao": "Havan",
+      "valor": 180.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-29",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "Picpay",
+      "descricao": "Picpay",
+      "valor": 473.09,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-31",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "Casas Bahia",
+      "descricao": "Casas Bahia",
+      "valor": 222.31,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-32",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "Mercado pago",
+      "descricao": "Mercado pago",
+      "valor": 374.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-33",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "Parcela Carro",
+      "descricao": "Parcela Carro",
+      "valor": 1807.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-34",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "Cartão Suellen",
+      "descricao": "Cartão Suellen",
+      "valor": 565.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-35",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "Cartão Torra",
+      "descricao": "Cartão Torra",
+      "valor": 207.75,
+      "recorrente": true
+    },
+    {
+      "id": "2025-11-despesa-37",
+      "month": "2025-11",
+      "date": "2025-11-01",
+      "type": "despesa",
+      "categoria": "Seguro Carro",
+      "descricao": "Seguro Carro",
+      "valor": 198.95,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-renda-14",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 1",
+      "descricao": "Fonte de renda 1",
+      "valor": 10810.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-20",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Aluguel",
+      "descricao": "Aluguel",
+      "valor": 1458.9,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-21",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Eletricidade",
+      "descricao": "Eletricidade",
+      "valor": 300.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-22",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "internet",
+      "descricao": "internet",
+      "valor": 168.5,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-23",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Salário Vera",
+      "descricao": "Salário Vera",
+      "valor": 30.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-24",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Parcela MBA",
+      "descricao": "Parcela MBA",
+      "valor": 149.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-25",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Condomínio",
+      "descricao": "Condomínio",
+      "valor": 689.3,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-26",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Cartão Nubank",
+      "descricao": "Cartão Nubank",
+      "valor": 6000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-27",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "pensão",
+      "descricao": "pensão",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-28",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Havan",
+      "descricao": "Havan",
+      "valor": 533.39,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-29",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Picpay",
+      "descricao": "Picpay",
+      "valor": 473.09,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-30",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Cartão Assai",
+      "descricao": "Cartão Assai",
+      "valor": 1280.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-31",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Casas Bahia",
+      "descricao": "Casas Bahia",
+      "valor": 222.31,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-32",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Mercado pago",
+      "descricao": "Mercado pago",
+      "valor": 402.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-33",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Parcela Carro",
+      "descricao": "Parcela Carro",
+      "valor": 1807.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-34",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Cartão Suellen",
+      "descricao": "Cartão Suellen",
+      "valor": 670.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-35",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Cartão Torra",
+      "descricao": "Cartão Torra",
+      "valor": 173.0,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-36",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Sams",
+      "descricao": "Sams",
+      "valor": 527.5,
+      "recorrente": true
+    },
+    {
+      "id": "2025-12-despesa-37",
+      "month": "2025-12",
+      "date": "2025-12-01",
+      "type": "despesa",
+      "categoria": "Seguro Carro",
+      "descricao": "Seguro Carro",
+      "valor": 198.95,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-renda-14",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 1",
+      "descricao": "Fonte de renda 1",
+      "valor": 10656.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-20",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "Aluguel",
+      "descricao": "Aluguel",
+      "valor": 1458.9,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-21",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "Eletricidade",
+      "descricao": "Eletricidade",
+      "valor": 308.91,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-22",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "internet",
+      "descricao": "internet",
+      "valor": 168.5,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-23",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "Salário Vera",
+      "descricao": "Salário Vera",
+      "valor": 30.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-24",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "Parcela MBA",
+      "descricao": "Parcela MBA",
+      "valor": 149.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-25",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "Condomínio",
+      "descricao": "Condomínio",
+      "valor": 689.3,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-26",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "Cartão Nubank",
+      "descricao": "Cartão Nubank",
+      "valor": 9708.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-27",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "pensão",
+      "descricao": "pensão",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-28",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "Havan",
+      "descricao": "Havan",
+      "valor": 513.49,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-29",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "Picpay",
+      "descricao": "Picpay",
+      "valor": 320.69,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-30",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "Cartão Assai",
+      "descricao": "Cartão Assai",
+      "valor": 1480.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-31",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "Casas Bahia",
+      "descricao": "Casas Bahia",
+      "valor": 222.31,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-32",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "Mercado pago",
+      "descricao": "Mercado pago",
+      "valor": 569.77,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-33",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "Parcela Carro",
+      "descricao": "Parcela Carro",
+      "valor": 1807.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-34",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "Cartão Suellen",
+      "descricao": "Cartão Suellen",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-35",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "Cartão Torra",
+      "descricao": "Cartão Torra",
+      "valor": 173.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-01-despesa-37",
+      "month": "2026-01",
+      "date": "2026-01-01",
+      "type": "despesa",
+      "categoria": "Seguro Carro",
+      "descricao": "Seguro Carro",
+      "valor": 198.95,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-renda-14",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 1",
+      "descricao": "Fonte de renda 1",
+      "valor": 17129.9,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-20",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Aluguel",
+      "descricao": "Aluguel",
+      "valor": 1383.22,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-21",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Eletricidade",
+      "descricao": "Eletricidade",
+      "valor": 322.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-22",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "internet",
+      "descricao": "internet",
+      "valor": 172.8,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-23",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Salário Vera",
+      "descricao": "Salário Vera",
+      "valor": 30.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-24",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Parcela MBA",
+      "descricao": "Parcela MBA",
+      "valor": 149.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-25",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Renner",
+      "descricao": "Renner",
+      "valor": 67.9,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-26",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Condomínio",
+      "descricao": "Condomínio",
+      "valor": 689.3,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-27",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Cartão Nubank",
+      "descricao": "Cartão Nubank",
+      "valor": 4284.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-28",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "pensão",
+      "descricao": "pensão",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-29",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Havan",
+      "descricao": "Havan",
+      "valor": 533.39,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-30",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Picpay",
+      "descricao": "Picpay",
+      "valor": 320.63,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-31",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Cartão Assai",
+      "descricao": "Cartão Assai",
+      "valor": 1100.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-32",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Casas Bahia",
+      "descricao": "Casas Bahia",
+      "valor": 222.31,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-33",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Mercado pago",
+      "descricao": "Mercado pago",
+      "valor": 659.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-34",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Parcela Carro",
+      "descricao": "Parcela Carro",
+      "valor": 1807.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-35",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Cartão Suellen",
+      "descricao": "Cartão Suellen",
+      "valor": 344.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-36",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Cartão Torra",
+      "descricao": "Cartão Torra",
+      "valor": 240.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-37",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Sams",
+      "descricao": "Sams",
+      "valor": 470.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-38",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Parcela Empréstimo",
+      "descricao": "Parcela Empréstimo",
+      "valor": 1243.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-02-despesa-39",
+      "month": "2026-02",
+      "date": "2026-02-01",
+      "type": "despesa",
+      "categoria": "Seguro Carro",
+      "descricao": "Seguro Carro",
+      "valor": 198.95,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-renda-14",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "receita",
+      "categoria": "Fonte de renda 1",
+      "descricao": "Fonte de renda 1",
+      "valor": 10700.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-20",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Aluguel",
+      "descricao": "Aluguel",
+      "valor": 1383.22,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-21",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Eletricidade",
+      "descricao": "Eletricidade",
+      "valor": 322.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-22",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "internet",
+      "descricao": "internet",
+      "valor": 172.8,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-23",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Salário Vera",
+      "descricao": "Salário Vera",
+      "valor": 50.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-24",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Parcela MBA",
+      "descricao": "Parcela MBA",
+      "valor": 149.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-25",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Renner",
+      "descricao": "Renner",
+      "valor": 67.9,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-26",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Condomínio",
+      "descricao": "Condomínio",
+      "valor": 689.3,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-27",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Cartão Nubank",
+      "descricao": "Cartão Nubank",
+      "valor": 5000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-28",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "pensão",
+      "descricao": "pensão",
+      "valor": 1000.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-29",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Havan",
+      "descricao": "Havan",
+      "valor": 533.39,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-30",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Picpay",
+      "descricao": "Picpay",
+      "valor": 320.63,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-31",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Cartão Assai",
+      "descricao": "Cartão Assai",
+      "valor": 1250.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-32",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Casas Bahia",
+      "descricao": "Casas Bahia",
+      "valor": 222.31,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-33",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Mercado pago",
+      "descricao": "Mercado pago",
+      "valor": 659.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-34",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Parcela Carro",
+      "descricao": "Parcela Carro",
+      "valor": 1807.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-35",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Cartão Suellen",
+      "descricao": "Cartão Suellen",
+      "valor": 800.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-36",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Cartão Torra",
+      "descricao": "Cartão Torra",
+      "valor": 240.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-37",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Sams",
+      "descricao": "Sams",
+      "valor": 470.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-38",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Parcela Empréstimo",
+      "descricao": "Parcela Empréstimo",
+      "valor": 1243.0,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-39",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "IPVA",
+      "descricao": "IPVA",
+      "valor": 167.42,
+      "recorrente": true
+    },
+    {
+      "id": "2026-03-despesa-40",
+      "month": "2026-03",
+      "date": "2026-03-01",
+      "type": "despesa",
+      "categoria": "Seguro Carro",
+      "descricao": "Seguro Carro",
+      "valor": 198.95,
+      "recorrente": true
+    }
+  ],
+  "settings": {
+    "metaEconomiaPct": 20
+  }
+}
